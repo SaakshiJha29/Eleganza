@@ -4,7 +4,7 @@ Deployed Link:
 https://cheery-piroshki-044276.netlify.app/
 
 #If you want to run the project on your local device then:
--copy the files in a single folder
+-download the files in a single folder
 -open the file index.html in any browser
 
 A modern, responsive e-commerce website for fashion and lifestyle, built with HTML, Tailwind CSS, and JavaScript.
