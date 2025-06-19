@@ -1,5 +1,8 @@
 # Eleganza Boutique
 
+Deployed Link:
+https://cheery-piroshki-044276.netlify.app/
+
 A modern, responsive e-commerce website for fashion and lifestyle, built with HTML, Tailwind CSS, and JavaScript.
 
 ## Features
